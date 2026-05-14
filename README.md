@@ -1,4 +1,4 @@
-VERSION: 1.1.10 | DATE: 02/04/2026 
+VERSION: 1.1.12 | DATE: 05/05/2026 
 
 DESCRIPTION: 
 Official website theme of BioMec, the BioMedical Engineering & Computing Team 
