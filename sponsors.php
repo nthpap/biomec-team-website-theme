@@ -20,10 +20,27 @@ get_header();
                 </a>
             </div>
 
+            <div class="sponsor-divider">Crystal Sponsors</div>
+            <div class="sponsor-grid">
+                <a href="https://www.veligradiotis.gr/" class="sponsor-logo">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/sponsors/crystal/tm_logo_nobg.png" alt="Academia Sponsor 1">
+                </a>
+            </div>
+
+            <div class="sponsor-divider">Gold Sponsors</div>
+            <div class="sponsor-grid">
+                <a href="https://etris.gr/" class="sponsor-logo">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/sponsors/gold/etris.png" alt="Academia Sponsor 1">
+                </a>
+            </div>
+
             <div class="sponsor-divider">Our Supporters</div>
             <div class="sponsor-grid">
                 <a href="https://fasmaprint.com/" class="sponsor-logo">
                     <img src="<?php echo get_template_directory_uri(); ?>/images/sponsors/supporters/Fasma_2.png" alt="Supporter 1">
+                </a>
+                <a href="https://fibran.gr/" class="sponsor-logo">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/sponsors/supporters/fibran_logo_new.png" alt="Supporter 1">
                 </a>
             </div>
         </section>
