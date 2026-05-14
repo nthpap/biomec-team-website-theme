@@ -8,7 +8,9 @@ Biomedical Engineering and Computational Medicine, aiming to develop advanced
 solutions that improve quality of life and shape the future of healthcare.
 
 AUTHOR: Nikolaos Theodoros Papadopoulos, Team Lead
+
 ΤEAM: BioMedical Engineering & Computing Team | University of Western Macedonia
+
 DATE: March 2026
 
 COPYRIGHTS:
